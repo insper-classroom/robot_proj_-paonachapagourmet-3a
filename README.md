@@ -6,10 +6,9 @@ ____________
 
 Nome dos integrantes: 
 
-* pessoa 1
+* Jonathan Sutton
 * Pedro de Souza Zequi
 * Thiago Hampl de Pierri Rocha
-
 
 
 Visite sempre o enunciado abaixo para atualizacões: 
