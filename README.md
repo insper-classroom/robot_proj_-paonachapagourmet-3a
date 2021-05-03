@@ -1,15 +1,15 @@
 # Base para Projeto 1 - Robótica 
 
-Nome do grupo: 
+Nome do grupo: PaonaChapaGourmet_3a
 
 ____________
 
 Nome dos integrantes: 
 
 * pessoa 1
-* pessoa 2
-* pessoa 3
-* pessoa 4
+* Pedro de Souza Zequi
+* Thiago Hampl de Pierri Rocha
+
 
 
 Visite sempre o enunciado abaixo para atualizacões: 
